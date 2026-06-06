@@ -113,8 +113,7 @@ export default function App() {
             </p>
 
             <p style={{ fontSize: '.97rem', lineHeight: 1.9, color: '#4a2030', marginBottom: '1rem' }}>
-              I've been searching for the right words, the right moment, the right everything.
-              And then I realized —{' '}
+              blahhh blahh blahhhhh —{' '}
               <em style={{ fontStyle: 'italic', color: '#c0395a' }}>there's no perfect moment, only the one I make with you.</em>
             </p>
 
@@ -145,7 +144,7 @@ export default function App() {
                 fontFamily: "'Playfair Display', serif",
                 fontSize: '1.4rem', color: '#c0395a',
               }}>
-                Your person 💕
+                Your Baby 💕
               </span>
             </div>
           </div>
